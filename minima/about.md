@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Neben meinem Linguistik Studium habe ich mich auch in Rhetorik und verschiedenen Kommunikationsmodellen, wie z.B. der Gewaltfreien Kommunikation, weitergebildet. Das von mir verfolgte Ziel dabei, ist es, Kommunikation als Mittel zum Erfolg zu nutzen - ob nun Produktion und Umsetzung effizienter gestaltet werden sollen, Führungspersonal Sprache für seinen Vorteil richtig einsetzt oder Sie sich einfach nur bessere Kommunikation im Zwischenmenschlichen wünschen und ein guter Redner sein wollen.
