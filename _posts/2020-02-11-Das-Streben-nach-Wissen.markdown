@@ -3,6 +3,7 @@ layout: post
 title:  "Das Streben nach Wissen, Erforschung und Neuem"
 date:   2020-02-11 12:03:52 +0100
 categories: Studieren, Linguistik, neue Erfahrungen
+author: Ilias Iliadis
 ---
 Bereits zu Beginn meines Studiums wusste ich, ich will Entdecken! Ich will erforschen, was bis jetzt nicht erforscht war!
 
