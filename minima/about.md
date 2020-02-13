@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Über mich
+permalink: /about/
 ---
 
-In Bearbeitung
+In Bearbeitung.
